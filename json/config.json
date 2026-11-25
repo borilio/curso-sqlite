@@ -13,6 +13,7 @@
     ],
     "mostrarLigadurasFuentes": true,
     "devMode": true,
+    "guardarPreferencias": false,
     "data": {
         "copyright": "",
         "logos": [
